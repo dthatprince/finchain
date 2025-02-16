@@ -23,7 +23,7 @@ python -m venv env
 
 ### Clone the Repository  
 ```bash
-git clone <repository-link>
+git clone https://github.com/dthatprince/finchain
 ```
 
 ### Navigate into the Project Directory  
