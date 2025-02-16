@@ -1,6 +1,9 @@
 # FinChain
 This application allows users to query financial data efficiently using natural language. This project demonstrates how to integrate a ChromaDB vector store within a LangChain pipeline to build an AI-powered GPT Investment Advisor Q&amp;A agent for querying and analyzing financial data.
 
+### Data Source
+**2022 Full Year Annual Report** – [Macquarie Group 2022 Full Year Annual Report](https://www.macquarie.com/au/en/investors/reports/full-year-2022.html)
+
 
 ## Demo Video
 [![Watch the Demo](https://img.youtube.com/vi/DGCTQqQOdMA/0.jpg)](https://youtu.be/DGCTQqQOdMA)
