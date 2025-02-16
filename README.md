@@ -48,6 +48,12 @@ os.environ["OPENAI_API_KEY"] = "your-api-key-here"
 streamlit run app.py
 ```
 
+### Sample test questions:
+1. What was the net profit of the company?
+2. What initiatives did the bank take towards sustainability?
+3. Summarize the financial performance of the bank.
+
+
 ## 🛠️ Features
 ✅ AI-powered financial analysis  
 ✅ Natural language queries  
