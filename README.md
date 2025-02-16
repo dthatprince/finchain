@@ -37,11 +37,10 @@ pip install -r requirements.txt
 ```
 
 ### Add OpenAI API Key  
-Open **app.py** and update **line 28** with your OpenAI API key:  
+Open **app.py** and update **line 28** with your OpenAI API key (https://platform.openai.com/api-keys):  
 ```python
 os.environ["OPENAI_API_KEY"] = "your-api-key-here"
 ```
-https://platform.openai.com/api-keys
 
 
 ### Run the App  
