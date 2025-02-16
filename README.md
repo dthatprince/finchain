@@ -2,6 +2,13 @@
 This application allows users to query financial data efficiently using natural language. This project demonstrates how to integrate a ChromaDB vector store within a LangChain pipeline to build an AI-powered GPT Investment Advisor Q&amp;A agent for querying and analyzing financial data.
 
 
+## Demo Video
+<video width="640" height="360" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Run the App
 
 Follow these steps to set up and run the project:
